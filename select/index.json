@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ノスタルジア",
+  "base_artist": "AliA",
+  "createdAt": "2026-02-27T13:04:42.426956Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ノスタルジア",
+      "artist": "Mariya Takeuchi",
+      "has_synced": false,
+      "path": "select/01_ノスタルジア_Mariya_Takeuchi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ノスタルジア",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/02_ノスタルジア_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ノスタルジア",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/03_ノスタルジア_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ノスタルジア",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/04_ノスタルジア_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ノスタルジア",
+      "artist": "Shizuka Kudo",
+      "has_synced": false,
+      "path": "select/05_ノスタルジア_Shizuka_Kudo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ノスタルジア",
+      "artist": "Megumi Nakajima",
+      "has_synced": true,
+      "path": "select/06_ノスタルジア_Megumi_Nakajima.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ノスタルジア",
+      "artist": "中島愛",
+      "has_synced": true,
+      "path": "select/07_ノスタルジア_中島愛.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ノスタルジア-ヰタ メカニカリス-",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/08_ノスタルジア-ヰタ_メカニカリス-_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ノスタルジア",
+      "artist": "Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/09_ノスタルジア_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ノスタルジア〜ReReハロ〜",
+      "artist": "7!!",
+      "has_synced": true,
+      "path": "select/10_ノスタルジア〜ReReハロ〜_7!!.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ノスタルジア",
+      "artist": "Ikimono-gakari",
+      "has_synced": true,
+      "path": "select/11_ノスタルジア_Ikimono-gakari.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ノスタルジア",
+      "artist": "相川七瀬",
+      "has_synced": false,
+      "path": "select/12_ノスタルジア_相川七瀬.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノスタルジア",
+      "artist": "AliA",
+      "has_synced": false,
+      "path": "select/pl_01_ノスタルジア_AliA.txt"
+    }
+  ]
+}
